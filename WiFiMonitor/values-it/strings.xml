@@ -19,7 +19,7 @@
     <string name="tab_net_graph">CN 2.4</string>
     <string name="tab_net_graph5">CN 5.0</string>
     <string name="tab_net_graph6">CN 6.0</string>
-    <string name="tab_net_power">Alimentazione</string>
+    <string name="tab_net_power">Potenza</string>
 
     <!-- Menu -->
 
@@ -59,8 +59,8 @@
 
     <string name="gateway">Gateway</string>
     <string name="netmask">Maschera sottorete</string>
-    <string name="dns1">dns1</string>
-    <string name="dns2">dns2</string>
+    <string name="dns1">DNS1</string>
+    <string name="dns2">DNS2</string>
     <string name="dhcp_server">Server</string>
 
     <string name="enter_mac_addr">Inserisci indirizzo MAC.</string>
@@ -135,7 +135,7 @@
     <string name="delete">Elimina</string>
     <string name="choose_services">Scegli servizi</string>
     <string name="scanning_settings">Impostazioni scansione</string>
-    <string name="set_scanning_timeout">Imposta timeout scansione per ogni host(ms)</string>
+    <string name="set_scanning_timeout">Timeout scansione per ogni host(ms)</string>
 
     <!-- Defender -->
     <string name="app_defender">App Defender</string>
@@ -194,7 +194,7 @@ Funzionalità:\n
     <string name="about_version">versione</string>
 
     <string name="about_author">autore\\n
-        Andrey Efremov\n
+        Andrey Efremov
         alias andr7e</string>
 
 </resources>
